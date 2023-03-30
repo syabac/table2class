@@ -1,0 +1,5 @@
+{
+	"connections": {
+		"fits": "sqlserver://fits:fits@192.168.235.4:1433?database=fits"
+	}
+}
